@@ -1,0 +1,6 @@
+安装
+zsh *.sh
+设置路径
+echo 'export PATH="/home/username/anaconda2/bin:$PATH"' >> ~/.zshrc #zsh 绝对路径
+更新路径
+source ~/.zshrc#zsh
