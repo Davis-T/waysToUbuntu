@@ -1,2 +1,3 @@
 find the ways to learn Linux
-so started in Ubuntu 18.04 
+so started in Ubuntu 18.04
+vim in use 
